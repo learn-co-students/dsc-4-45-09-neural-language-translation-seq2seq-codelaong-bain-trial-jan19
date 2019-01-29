@@ -1,5 +1,5 @@
 
-# Neural Language Translation with seq2seq Models - Code along
+# Neural Language Translation with seq2seq Models - Codealong
 
 ## Introduction
 
@@ -8,6 +8,8 @@ So far, we have looked at building simple  and deep AEs for data compression and
 In this lab, we will look at how to implement a basic character-level sequence-to-sequence model using RNNs, following a similar encoder-decoder approach. The model will be able to translate short English phrases into short French, in a character-by-character fashion. Such a model can be further modified to process whole words instead of characters. You are encouraged to consider this experiment as a baseline model which you can further scale and modify according to an analytical question or a specific business need. 
 
 ## Objectives
+
+You will be able to:
 
 - Understand and describe a sequence to sequence architecture for language modeling 
 - Pre-process a given text corpus to be trained under a teacher forcing approach
